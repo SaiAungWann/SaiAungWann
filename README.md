@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Aung Wann</h1>
-<h3 align="center">Full Stack Web Developer Student</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Sai | Laravel -> ecommerce platform](https://github.com/SaiAungWann/Sai-CCM-Laravel-project.git)
+- 🔭 I’m currently working on [Cat Cream | React - Laravel -> ecommerce platform](https://github.com/SaiAungWann/Cat_Cream/tree/master)
 
-- 🌱 I’m currently learning **Laravel, MERN**
+- 🌱 I’m currently learning **Meta React Native Specialization**
 
 - 💬 Ask me about **Laravel, React**
 
